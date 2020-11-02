@@ -9,7 +9,4 @@
      <js-module src="www/cocoon_social.js" name="Social">
         <runs/>
     </js-module>
-
-    <dependency id="cocoon-plugin-common" url="https://github.com/creakosta2/cordova-gpg-common"/>
-
 </plugin>
